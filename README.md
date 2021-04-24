@@ -1,6 +1,6 @@
 # Astronomical-Object-Database-Oracle-11g
 
-** This Project was a part of Database System Management Lab course of CSEDU, 2018. **
+**This Project was a part of Database System Management Lab course of CSEDU, 2018.**
 
 My project idea was to build a database about astronomical object. It is more of like an encyclopedia type database where the information about the object like a star,a planet, a satellite or a galaxy, or even a constellation will be recorded so that one can find information from here. That’s why the idea is named after “Astronomical Object Database”.
 
